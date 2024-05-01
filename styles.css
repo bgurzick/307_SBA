@@ -1,0 +1,60 @@
+.sunspotCards{
+    display:inline-block;
+    flex-direction:row;
+    justify-content:center;
+    flex-wrap:wrap;
+    border: 2px solid white;
+    margin:20px;
+    height:250px;
+    max-width:250px;
+
+}
+.sunspotCardsImg{
+    background-color:black;
+    display:flex;
+    flex-wrap:wrap;
+    height:250px;
+    max-width: 250px;
+    align-items:end;
+    text-align:center;
+}
+
+ 
+#card1{
+    color:aquamarine;
+    /* flex-grow: 1; */
+}
+
+#card2{
+    color:cyan;
+    /* flex-grow:1; */
+}
+
+#card3{
+    color:magenta;
+    /* flex-grow:1; */
+}
+
+#card4{
+    color:yellow
+}
+
+#card5{
+    color:lawngreen;
+    /* flex-grow:2; */
+}
+
+#card6{
+    color:ivory;
+}
+
+#card7{
+    color:lime;
+}
+
+#card8{
+    color:orangered;
+}
+#card9{
+    color:hotpink;
+}
